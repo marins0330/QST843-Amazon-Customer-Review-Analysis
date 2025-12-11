@@ -1,5 +1,5 @@
 # QST843-Amazon-Customer-Review-Analysis
-Amazon Customer Review Analysis from BU QST 843 course
+Amazon Customer Review Analysis from BU QST 843 course - Hyun Sung (Evan) Park
 
 ## Personal Contributions
 
