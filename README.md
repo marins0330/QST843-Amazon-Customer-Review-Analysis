@@ -1,7 +1,7 @@
 # QST843-Amazon-Customer-Review-Analysis
-Amazon Customer Review Analysis from BU QST 843 course - Hyun Sung (Evan) Park
+Amazon Customer Review Analysis from BU QST 843 course - Kapilan Ramasamy, Yash Mukesh Kothari, MingHua (Jasmin) Tsai, Hyun Sung (Evan) Park
 
-## Personal Contributions
+## Personal Contributions - Hyun Sung (Evan) Park
 
 The following are the main tasks I contributed to this project:
 
